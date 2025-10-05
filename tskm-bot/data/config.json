@@ -1,0 +1,34 @@
+{
+  "shop_channel_id": 0,
+  "level_rewards": [],
+  "xp_per_action": {
+    "daily": 100,
+    "rob_success": 50,
+    "clan_contribution": 20
+  },
+  "rob_cooldown": 3600,
+  "rob_min": 50,
+  "rob_max": 300,
+  "daily_coins": 100,
+  "daily_cooldown": 86400,
+  "anti_farm": {
+    "message_cooldown_seconds": 60,
+    "spam_threshold_per_10s": 8,
+    "auto_mute_minutes": 10
+  },
+  "economy": {
+    "message_batch_size": 50,
+    "message_batch_reward": 150,
+    "invites_reward": 500,
+    "invite_min_stay_minutes": 60,
+    "boost_server_reward": 1000,
+    "daily_reward": 400,
+    "work_reward_min": 120,
+    "work_reward_max": 300,
+    "work_cooldown_minutes": 60,
+    "tax_percent_pay": 5,
+    "coin_boost_multiplier": 1.0,
+    "xp_boost_multiplier": 1.0
+  },
+  "one_guild_only": true
+}

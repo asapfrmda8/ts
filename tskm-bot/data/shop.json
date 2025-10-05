@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": "ep\u00e9e",
+            "name": "\u00c9p\u00e9e en acier",
+            "price": 500,
+            "desc": "Une \u00e9p\u00e9e solide."
+        },
+        {
+            "id": "bouclier",
+            "name": "Bouclier en bois",
+            "price": 300,
+            "desc": "Prot\u00e8ge des coups."
+        },
+        {
+            "id": "potion",
+            "name": "Potion de vie",
+            "price": 150,
+            "desc": "Restaure la vie."
+        }
+    ]
+}

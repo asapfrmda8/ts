@@ -1,0 +1,32 @@
+{
+    "clans": {
+        "CLAN ASAP": {
+            "owner_id": 1370392356410495129,
+            "members": [
+                1370392356410495129
+            ],
+            "level": 1,
+            "bank": 0,
+            "xp": 0,
+            "description": "clan de asap",
+            "rivalries": [],
+            "wars": []
+        },
+        "#FITNAMAX": {
+            "owner_id": 1291798166815117415,
+            "members": [
+                1291798166815117415
+            ],
+            "level": 1,
+            "bank": 0,
+            "xp": 0,
+            "description": "Grrr pawww serpentard",
+            "rivalries": [],
+            "wars": []
+        }
+    },
+    "user_clan": {
+        "1370392356410495129": "CLAN ASAP",
+        "1291798166815117415": "#FITNAMAX"
+    }
+}

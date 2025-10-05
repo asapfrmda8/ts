@@ -1,0 +1,183 @@
+{
+  "1370392356410495129": {
+    "coins": 714,
+    "bank": 249,
+    "xp": 0,
+    "level": 1,
+    "xp_next": 1000,
+    "clan": null,
+    "vip": false,
+    "inventory": {
+      "minerals": {},
+      "boosts": {
+        "coin": [],
+        "xp": []
+      },
+      "roles": [],
+      "special": []
+    },
+    "last_mine_at": null,
+    "last_daily_at": "2025-08-24T11:05:53.968782+00:00",
+    "last_work_at": "2025-08-24T11:06:23.456519+00:00",
+    "last_message_xp_at": null,
+    "message_cycle_count": 10,
+    "warns": [
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:01.613892+00:00",
+        "expires_at": "2025-09-23T11:19:01.613898+00:00"
+      },
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:01.904509+00:00",
+        "expires_at": "2025-09-23T11:19:01.904518+00:00"
+      },
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:02.232635+00:00",
+        "expires_at": "2025-09-23T11:19:02.232644+00:00"
+      },
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:02.509480+00:00",
+        "expires_at": "2025-09-23T11:19:02.509487+00:00"
+      },
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:02.769786+00:00",
+        "expires_at": "2025-09-23T11:19:02.769794+00:00"
+      },
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:03.039372+00:00",
+        "expires_at": "2025-09-23T11:19:03.039406+00:00"
+      },
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:03.362151+00:00",
+        "expires_at": "2025-09-23T11:19:03.362158+00:00"
+      },
+      {
+        "reason": "Spam messages (auto)",
+        "at": "2025-08-24T11:19:03.877261+00:00",
+        "expires_at": "2025-09-23T11:19:03.877266+00:00"
+      }
+    ],
+    "stats": {
+      "mined_total": 0,
+      "mined_rare": 0,
+      "games_played": 2,
+      "games_won": 0,
+      "voice_awards": 0,
+      "invites_valid": 0
+    }
+  },
+  "1291798166815117415": {
+    "coins": 0,
+    "bank": 0,
+    "xp": 0,
+    "level": 1,
+    "xp_next": 1000,
+    "clan": null,
+    "vip": false,
+    "inventory": {
+      "minerals": {},
+      "boosts": {
+        "coin": [],
+        "xp": []
+      },
+      "roles": [],
+      "special": []
+    },
+    "last_mine_at": null,
+    "last_daily_at": null,
+    "last_work_at": null,
+    "last_message_xp_at": null,
+    "message_cycle_count": 6,
+    "warns": [
+      {
+        "reason": "a",
+        "at": "2025-08-24T11:08:32.424236+00:00",
+        "expires_at": "2025-09-23T11:08:32.424241+00:00"
+      }
+    ],
+    "stats": {
+      "mined_total": 0,
+      "mined_rare": 0,
+      "games_played": 0,
+      "games_won": 0,
+      "voice_awards": 0,
+      "invites_valid": 0
+    }
+  },
+  "1048595882553127022": {
+    "coins": 0,
+    "bank": 0,
+    "xp": 0,
+    "level": 1,
+    "xp_next": 1000,
+    "clan": null,
+    "vip": false,
+    "inventory": {
+      "minerals": {},
+      "boosts": {
+        "coin": [],
+        "xp": []
+      },
+      "roles": [],
+      "special": []
+    },
+    "last_mine_at": null,
+    "last_daily_at": null,
+    "last_work_at": null,
+    "last_message_xp_at": null,
+    "message_cycle_count": 8,
+    "warns": [
+      {
+        "reason": "fdp",
+        "at": "2025-08-24T11:10:54.177778+00:00",
+        "expires_at": "2025-09-23T11:10:54.177784+00:00"
+      }
+    ],
+    "stats": {
+      "mined_total": 0,
+      "mined_rare": 0,
+      "games_played": 0,
+      "games_won": 0,
+      "voice_awards": 0,
+      "invites_valid": 0
+    }
+  },
+  "698510573532479508": {
+    "coins": 0,
+    "bank": 0,
+    "xp": 0,
+    "level": 1,
+    "xp_next": 1000,
+    "clan": null,
+    "vip": false,
+    "inventory": {
+      "minerals": {},
+      "boosts": {
+        "coin": [],
+        "xp": []
+      },
+      "roles": [],
+      "special": []
+    },
+    "last_mine_at": null,
+    "last_daily_at": null,
+    "last_work_at": null,
+    "last_message_xp_at": null,
+    "message_cycle_count": 0,
+    "warns": [],
+    "stats": {
+      "mined_total": 0,
+      "mined_rare": 0,
+      "games_played": 0,
+      "games_won": 0,
+      "voice_awards": 0,
+      "invites_valid": 0
+    }
+  }
+}

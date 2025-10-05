@@ -1,0 +1,114 @@
+{
+  "minerals": [
+    {
+      "name": "Pierre",
+      "chance": 20.0,
+      "value": 2
+    },
+    {
+      "name": "Charbon",
+      "chance": 18.0,
+      "value": 2
+    },
+    {
+      "name": "Cuivre",
+      "chance": 14.0,
+      "value": 5
+    },
+    {
+      "name": "Fer",
+      "chance": 10.0,
+      "value": 9
+    },
+    {
+      "name": "Andhesithe",
+      "chance": 8.0,
+      "value": 11
+    },
+    {
+      "name": "Quartz",
+      "chance": 6.5,
+      "value": 18
+    },
+    {
+      "name": "Lithium",
+      "chance": 5.5,
+      "value": 23
+    },
+    {
+      "name": "Saphir",
+      "chance": 4.5,
+      "value": 32
+    },
+    {
+      "name": "Topaze",
+      "chance": 3.8,
+      "value": 43
+    },
+    {
+      "name": "Rubis",
+      "chance": 3.2,
+      "value": 64
+    },
+    {
+      "name": "Émeraude",
+      "chance": 2.5,
+      "value": 78
+    },
+    {
+      "name": "Amethyste",
+      "chance": 2.0,
+      "value": 99
+    },
+    {
+      "name": "Tungsten",
+      "chance": 1.6,
+      "value": 106
+    },
+    {
+      "name": "Platine",
+      "chance": 1.3,
+      "value": 177
+    },
+    {
+      "name": "Adamentium",
+      "chance": 1.0,
+      "value": 248
+    },
+    {
+      "name": "Cristal obscur",
+      "chance": 0.8,
+      "value": 319
+    },
+    {
+      "name": "Diamant",
+      "chance": 0.6,
+      "value": 426
+    },
+    {
+      "name": "Opale",
+      "chance": 0.45,
+      "value": 568
+    },
+    {
+      "name": "Uranium",
+      "chance": 0.25,
+      "value": 781
+    },
+    {
+      "name": "Dragonite",
+      "chance": 0.15,
+      "value": 1242
+    },
+    {
+      "name": "Mythril",
+      "chance": 0.05,
+      "value": 3548
+    },
+    {
+      "name": "Tsukamunite",
+      "chance": 0.005,
+      "value": 354813
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "users": {
+    "1370392356410495129": {
+      "coins": 245,
+      "lastDaily": 1759684607921,
+      "pickaxe": {
+        "id": "iron",
+        "name": "Pioche — Fer",
+        "durability": 47,
+        "multiplier": 1.6
+      },
+      "bagLevel": 1,
+      "inventory": {
+        "Or": 0,
+        "Charbon": 0,
+        "Fer": 0,
+        "Diamant": 0,
+        "Emeraude": 0
+      },
+      "clan": null,
+      "lastMine": 1759686107811
+    },
+    "703626857542844456": {
+      "coins": 135,
+      "lastDaily": 1759684623762,
+      "pickaxe": {
+        "id": "iron",
+        "name": "Pioche — Fer",
+        "durability": 55,
+        "multiplier": 1.6
+      },
+      "bag": {
+        "id": "small",
+        "name": "Petit sac",
+        "capacity": 50
+      },
+      "inventory": {
+        "Fer": 1,
+        "Or": 2,
+        "Charbon": 0,
+        "Diamant": 0
+      },
+      "clan": null,
+      "lastMine": 1759685919519
+    }
+  },
+  "clans": {}
+}
